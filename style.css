@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 18px;
+}
+h1 {
+    font-family: "Trebuchet-MS", Helvetica, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    text-decoration: underline;
+}
+div {
+    width: 300px;
+    border: 3px solid black;
+    margin: auto;
+    padding: 30px;
+}
+.button {
+    color: antiquewhite;
+    font-size: 24px;
+    margin: 0 auto;
+}
+.a {
+    background-color: turquoise;
+}
+.b{
+    background-color: rgba(138, 6, 6, 0.482);
+} 
+.c {
+    background-color: rgb(196, 84, 224);
+}
