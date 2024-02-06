@@ -7,12 +7,13 @@ h1 {
     font-size: 48px;
     text-align: center;
     text-decoration: underline;
+
 }
 div {
-    width: 300px;
-    border: 3px solid black;
-    margin: auto;
-    padding: 30px;
+    border: solid black 5px;
+    padding: 0.5rem;
+    margin-left: 35.5rem;
+    display: inline-block;
 }
 .button {
     color: antiquewhite;
@@ -22,9 +23,12 @@ div {
 .a {
     background-color: turquoise;
 }
-.b{
+.b {
     background-color: rgba(138, 6, 6, 0.482);
 } 
 .c {
     background-color: rgb(196, 84, 224);
+}
+.button:hover {
+    filter: brightness(130%);
 }
